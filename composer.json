@@ -1,0 +1,9 @@
+{
+    "name": "neemspees/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/"
+        }
+    },
+    "require": {}
+}
